@@ -1,0 +1,214 @@
+{
+  "resources/js/assets/logo.png": {
+    "file": "assets/logo.5df24b18.png",
+    "src": "resources/js/assets/logo.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.7c3c19f8.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.3f6cd2bb.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/home.vue",
+      "resources/js/views/profile.vue",
+      "resources/js/views/dashboard.vue",
+      "resources/js/views/Vehicle/Vehicle.vue",
+      "resources/js/views/Vehicle/EditVehicle.vue",
+      "resources/js/views/Vehicle/createNewVehicle.vue",
+      "resources/js/views/User/User.vue",
+      "resources/js/views/User/EditUser.vue",
+      "resources/js/views/User/CreateUser.vue",
+      "resources/js/views/Branch/Branch.vue",
+      "resources/js/views/Branch/EditBranch.vue",
+      "resources/js/views/Branch/CreateBranch.vue",
+      "resources/js/Tabs.vue"
+    ],
+    "css": [
+      "assets/app.ca2cff13.css"
+    ],
+    "assets": [
+      "assets/logo.5df24b18.png"
+    ]
+  },
+  "resources/js/home.vue": {
+    "file": "assets/home.8e5ca4b6.js",
+    "src": "resources/js/home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/profile.vue": {
+    "file": "assets/profile.14883fe0.js",
+    "src": "resources/js/views/profile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/profile.3a300da8.css"
+    ]
+  },
+  "resources/js/views/dashboard.vue": {
+    "file": "assets/dashboard.46e2b4b7.js",
+    "src": "resources/js/views/dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_moment.9709ab41.js",
+      "_ScrollToBottom.a7dcdc82.js"
+    ],
+    "css": [
+      "assets/dashboard.70aa0f2f.css"
+    ]
+  },
+  "_ScrollToBottom.d0a5a962.js": {
+    "file": "assets/ScrollToBottom.d0a5a962.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/ScrollToBottom.dfc2dfa4.css"
+    ]
+  },
+  "_moment.9709ab41.js": {
+    "file": "assets/moment.9709ab41.js"
+  },
+  "resources/js/views/Vehicle/Vehicle.vue": {
+    "file": "assets/Vehicle.b081e2ae.js",
+    "src": "resources/js/views/Vehicle/Vehicle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ScrollToBottom.a7dcdc82.js"
+    ]
+  },
+  "resources/js/views/Vehicle/EditVehicle.vue": {
+    "file": "assets/EditVehicle.9b60260b.js",
+    "src": "resources/js/views/Vehicle/EditVehicle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_moment.9709ab41.js"
+    ]
+  },
+  "resources/js/views/Vehicle/createNewVehicle.vue": {
+    "file": "assets/createNewVehicle.66295cf9.js",
+    "src": "resources/js/views/Vehicle/createNewVehicle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/User/User.vue": {
+    "file": "assets/User.9f4493d8.js",
+    "src": "resources/js/views/User/User.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ScrollToBottom.a7dcdc82.js"
+    ]
+  },
+  "resources/js/views/User/EditUser.vue": {
+    "file": "assets/EditUser.159db8bb.js",
+    "src": "resources/js/views/User/EditUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/User/CreateUser.vue": {
+    "file": "assets/CreateUser.136d8073.js",
+    "src": "resources/js/views/User/CreateUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/Branch/Branch.vue": {
+    "file": "assets/Branch.b7e627ac.js",
+    "src": "resources/js/views/Branch/Branch.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/Branch/EditBranch.vue": {
+    "file": "assets/EditBranch.8da03e9f.js",
+    "src": "resources/js/views/Branch/EditBranch.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/EditBranch.7d9e697c.css"
+    ]
+  },
+  "resources/js/views/Branch/CreateBranch.vue": {
+    "file": "assets/CreateBranch.811e1a86.js",
+    "src": "resources/js/views/Branch/CreateBranch.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Tabs.vue": {
+    "file": "assets/Tabs.98f8dc32.js",
+    "src": "resources/js/Tabs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/views/User/User.vue",
+      "resources/js/app.js",
+      "_ScrollToBottom.a7dcdc82.js"
+    ],
+    "css": [
+      "assets/Tabs.62a2ace5.css"
+    ]
+  },
+  "resources/js/views/profile.css": {
+    "file": "assets/profile.3a300da8.css",
+    "src": "resources/js/views/profile.css"
+  },
+  "resources/js/views/Branch/EditBranch.css": {
+    "file": "assets/EditBranch.7d9e697c.css",
+    "src": "resources/js/views/Branch/EditBranch.css"
+  },
+  "resources/js/Tabs.css": {
+    "file": "assets/Tabs.62a2ace5.css",
+    "src": "resources/js/Tabs.css"
+  },
+  "ScrollToBottom.css": {
+    "file": "assets/ScrollToBottom.dfc2dfa4.css",
+    "src": "ScrollToBottom.css"
+  },
+  "resources/js/views/dashboard.css": {
+    "file": "assets/dashboard.70aa0f2f.css",
+    "src": "resources/js/views/dashboard.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.ca2cff13.css",
+    "src": "resources/js/app.css"
+  },
+  "_ScrollToBottom.349dc3a2.js": {
+    "file": "assets/ScrollToBottom.349dc3a2.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/ScrollToBottom.dfc2dfa4.css"
+    ]
+  },
+  "_ScrollToBottom.a7dcdc82.js": {
+    "file": "assets/ScrollToBottom.a7dcdc82.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/ScrollToBottom.dfc2dfa4.css"
+    ]
+  }
+}

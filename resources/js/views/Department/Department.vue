@@ -1,0 +1,3 @@
+<template>
+    Departments page
+</template>
